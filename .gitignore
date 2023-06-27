@@ -24,6 +24,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+#keys files
+serviceAccount.json
+firebase-components.tsx
+
 # local env files
 .env*.local
 
